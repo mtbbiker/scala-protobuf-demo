@@ -1,0 +1,1 @@
+addSbtPlugin("com.github.bakenezumi" % "scala2protobuf-sbt" % "0.1.0-SNAPSHOT")
