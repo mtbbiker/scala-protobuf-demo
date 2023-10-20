@@ -1,8 +1,8 @@
 ## Demo that shows how to convert scala case classes to a `*.proto` file
 
-### Preconditions
+### Precondition
 
-Cloen and deploy the following `sbt-plugin` => `https://github.com/bakenezumi/scala2protobuf`
+Clone and deploy the following `sbt-plugin` => `https://github.com/bakenezumi/scala2protobuf`
 
 
 Objective: Generate a `.proto` file and then use that file in other Projects to serialize/deserialize protobuf messages
